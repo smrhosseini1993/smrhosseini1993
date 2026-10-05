@@ -3,7 +3,7 @@
 # Hi 👋, I'm Seyed
 ### AI Engineer · Machine Learning Researcher
 
-Python · Agentic AI · UX Research · Biomedical Imaging
+Machine learning · Agentic AI · UX Research · Biomedical Imaging
 
 <a href="https://www.linkedin.com/in/smrhosseini93/"><img src="badge-linkedin.svg" height="28" alt="LinkedIn"/></a>
 <a href="mailto:seyed.m.hosseini@utu.fi"><img src="badge-email.svg" height="28" alt="Email"/></a>
